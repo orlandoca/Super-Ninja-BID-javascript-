@@ -1,1 +1,2 @@
 # SuperNinja
+Extiende la clase Ninja y crea la clase Sensei. Un Sensei debe tener 200 de salud, 10 de velocidad y 10 de fuerza por defecto. Además, un Sensei debe tener un nuevo atributo llamado sabiduría , y el valor predeterminado debe ser 10. Finalmente, agrega el métodospeakWisdom(). speakWisdom()debe llamar al métododrinkSake() desde la clase Ninja, antes de hacer console.logging un mensaje de sabiduría.
