@@ -41,7 +41,7 @@ class Sensei extends Ninja {
     );
   }
 }
-const Sensei1 = new Sensei("master splinter");
-Sensei1.speakWisdom();
+const Sensei1 = new Sensei("master splinter"); //creando el objeto sensei
+Sensei1.speakWisdom(); //llamando metodo nuevo
 
-Sensei1.showStats();
+Sensei1.showStats(); //llamando metodo de ninja
